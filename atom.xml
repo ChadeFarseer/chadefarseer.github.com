@@ -4,12 +4,21 @@
   <title>Chade&#8217;s Octopress Blog</title>
   <link href="http://chadefarseer.github.com/atom.xml" rel="self"/>
   <link href="http://chadefarseer.github.com/"/>
-  <updated>2011-09-14T13:44:45+10:00</updated>
+  <updated>2011-09-14T13:56:57+10:00</updated>
   <id>http://chadefarseer.github.com/</id>
   <author>
     <name>Chade</name>
     
   </author>
 
+  
+  <entry>
+    <title>Hello Adam</title>
+    <link href="http://chadefarseer.github.com/blog/2011/09/14/hello-adam/"/>
+    <updated>2011-09-14T13:54:00+10:00</updated>
+    <id>http://chadefarseer.github.com/blog/2011/09/14/hello-adam</id>
+    <content type="html">
+</content>
+  </entry>
   
 </feed>
